@@ -318,3 +318,13 @@ docker compose config --quiet
 ## 许可证状态
 
 本仓库目前未附加代码开源许可证。**公开可见不等于授予复制、修改或再分发权利。** 若准备接受外部使用和贡献，请由仓库所有者明确选择并添加 MIT、Apache-2.0 或其他适用许可证；模型、数据集与图片仍需分别遵守各自条款。
+
+<!-- aiyou-contact:start -->
+
+## 联系作者 / Contact
+
+扫码添加作者微信，交流使用体验与项目合作。
+
+<img src="docs/assets/wechat-contact.jpg" alt="Glimmer · 光波的个人微信二维码" width="280" />
+
+<!-- aiyou-contact:end -->
